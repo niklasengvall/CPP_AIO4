@@ -14,3 +14,28 @@ Happy coding!
 
 Borlänge, 2022
 Niklas Engvall
+
+## How to Compile under Linux
+
+First of all I recommend you to search with Google or YouTube on how to install and configure the C/C++, Git, make and cmake packages. 
+Also you will need to download and configure VS Code software. Then take some timee to learn the fundamentals of VS Code plus Git and I also strongly suggest you to add some C/C++ VS Code extensions, look at my ToDo.md
+
+# BASH (terminal) commands in Linux
+
+Compile without debug information:   g++ [source_cpp_file.cpp] -O3 -Wall -std=c++20 -o [source_cpp_file]_R.o
+Run command:                         ./SayHello_R.o
+
+<em>Example:</em>
+Compile without debug information:   g++ SayHello.cpp -O3 -Wall -std=c++20 -o SayHello_R.o
+Run command:                         ./SayHello_R.o
+
+
+Compile with debug information:      g++ [source_cpp_file.cpp] -g -Og -Wall -std=c++20 -o [source_cpp_file]_D.o
+Run command:                         ./SayHello_D.o
+
+<em>Example:</em>
+Compile with debug information:      g++ SayHello.cpp -g -Og -Wall -std=c++20 -o SayHello_D.o
+Run command:                         ./SayHello_D.o
+
+Yo can also use MAKE:  <-- No support for extra parameters at the moment
+MAKE [source_cpp_file_without_extension]
