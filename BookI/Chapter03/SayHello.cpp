@@ -17,14 +17,6 @@
 
 // Returns:         0 to calling function, software or operating system
 
-// BASH (terminal) commands in Linux
-
-// Compile without debug information:   g++ SayHello.cpp -O3 -Wall -std=c++20 -o SayHello_R.o
-// Run command:                         ./SayHello_R.o
-
-// Compile with debug information:      g++ SayHello.cpp -g -Og -Wall -std=c++20 -o SayHello_D.o
-// Run command:                         ./SayHello_D.o
-
 #include <iostream>     // Preprocessor directive that include classes, objects and methods (functions) from C++ standard library for 
                         // input/output streams
 
