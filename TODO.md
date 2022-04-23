@@ -27,6 +27,7 @@
   - [x] Add extension: IntelliCode  
   - [x] Add extension: C/C++ Extension Pack  
   - [x] Add extension: C/C++ Snippets  
-  - [x] Add extension: C/C++ Project Generator  
+  - [x] Add extension: C/C++ Project Generator
+  - [x] Add extension: Make
 - [x] Add a README.md file  
-- [x] Add a LICENSE.md file  
+- [x] Add a LICENSE.md file
