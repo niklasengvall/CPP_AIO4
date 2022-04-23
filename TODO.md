@@ -29,3 +29,4 @@
   - [x] Add extension: C/C++ Snippets  
   - [x] Add extension: C/C++ Project Generator  
 - [x] Add a README.md file  
+- [x] Add a LICENSE.md file  
