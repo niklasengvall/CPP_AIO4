@@ -28,7 +28,8 @@
   - [x] Add extension: C/C++ Extension Pack  
   - [x] Add extension: C/C++ Snippets  
   - [x] Add extension: C/C++ Project Generator  
-  - [x] Add extension: Make  
+  - [x] Add extension: Makefile Tools  
+  - [x] Add extension: Makefile Creator  
 - [x] Add a README.md file  
 - [x] Add a LICENSE.md file  
 
