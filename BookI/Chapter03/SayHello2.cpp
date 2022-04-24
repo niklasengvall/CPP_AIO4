@@ -1,7 +1,7 @@
 // Starting with Main
 
 // Original file:   main.cpp
-// Original folder: CPP_AIO4/BookI/Chapter01/SayHello
+// Original folder: CPP_AIO4/BookI/Chapter03/SayHello
 
 // Code from:       C++ All in one for dummies, 4th edition, 2021, author John Paul Mueller
 //                  Book I, chapter 3, p. 55-67
