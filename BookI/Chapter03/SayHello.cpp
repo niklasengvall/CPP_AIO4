@@ -25,9 +25,9 @@ using namespace std;    // Telling the compiler that we are using namespace std,
 int main()              // The first function that runs in a C/C++ project
 {                       // Body of main starts with a { 
 
-    cout << "Hello\tI am your computer talking." << endl;   // Prints Hello with a tab space and I am your computer talking. on your console
-    cout << 5 + 10 << endl;                                 // Prints 15 and the endl statement moves the cursor to the beginning of the next line
-    cout << 5 + 10 / 2 * 3 + 25 << endl;                    // endl moves all text (flushes) from the buffer to the console terminal followed by a
+    cout << "Hi\tI am your computer talking." << endl;      // Prints Hello with a tab space and I am your computer talking. on your console
+    cout << 4 + 11 << endl;                                 // Prints 15 and the endl statement moves the cursor to the beginning of the next line
+    cout << 6 + 10 / 2 * 3 + 24 << endl;                    // endl moves all text (flushes) from the buffer to the console terminal followed by a
                                                             // newline
     
     // This line produces a warning message during you compilation of the code
