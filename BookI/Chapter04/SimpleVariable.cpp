@@ -12,7 +12,7 @@
 
 // Purpose:         This example shows how to declare and initiate a simple variable and print it out on the screen
 
-// Description:     The code in main declares and initiate a variable to 10 and prints it out on the standard console, yor terminal window
+// Description:     The code in main declares and initiate a variable to 7 and prints it out on the standard console, yor terminal window
 
 // Returns:         0 to calling function, software or operating system
 #include <iostream>
@@ -22,6 +22,6 @@
 int main(void)                          // void tells the compiler I wont accept any argument to this function, but it can return a int value.
 {
     int my_no = 7;                      // Declare a my_no variable as int and initiate it (store) with number 7.
-    std::cout << my_no << std::endl;    // Prits out my number on the screen
+    std::cout << my_no << std::endl;    // Prints out my number on the screen
     return 0;
 }
