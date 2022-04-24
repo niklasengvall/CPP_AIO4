@@ -1,4 +1,4 @@
-// Copying variable value to another variable with the same type 
+// Adding variable value to another variable with the same type 
 
 // Original file:   main.cpp
 // Original folder: CPP_AIO4/BookI/Chapter04/AddInteger
